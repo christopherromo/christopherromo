@@ -2,6 +2,6 @@
 
 i'm an entry-level software engineer interested in UX/UI, front-end development, & visual design
 
-💻 i'm currently learning: TypeScript, Express.js, & React  
-🌱 check out my most recent work: [web-programming-projects](https://github.com/christopherromo/web-programming-projects)  
+💻 i'm currently learning: Express.js & React  
+🌱 check out my most recent work: [web-tech](https://github.com/christopherromo/web-tech)  
 💭 check out my favorite project: [evoltama](https://github.com/christopherromo/evoltama)
